@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@theme{
+    --color-primary : rgb(11 19 30);
+    --color-secondary : rgb(32, 43, 59);
+    --color-second: rgb(53, 69, 94);
+    --color-theme-white : rgb(240 241 241);
+}
+html::-webkit-scrollbar, body::-webkit-scrollbar {
+    display: none;
+  }
+  
+  /* Za Firefox */
+  html, body {
+    scrollbar-width: none;
+  }
