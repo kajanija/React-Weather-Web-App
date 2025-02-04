@@ -7,3 +7,6 @@ This is react weather web app with **OpenWeatherMapAPI** **useState** **useEffec
 ### Home
 
 ![home](public/screenshot-home.jpeg)
+![cities](public/screenshot-cities.jpeg)
+![map](public/screenshot-map.jpeg)
+![settings](public/screenshot-settings.jpeg)
